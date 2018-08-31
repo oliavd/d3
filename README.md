@@ -1,4 +1,6 @@
 # D3: Data-Driven Documents
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foliavd%2Fd3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Foliavd%2Fd3?ref=badge_shield)
+
 
 <a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
 
@@ -55,3 +57,7 @@ You can also require individual modules and combine them into a `d3` object usin
 ```js
 var d3 = Object.assign({}, require("d3-format"), require("d3-geo"), require("d3-geo-projection"));
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foliavd%2Fd3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Foliavd%2Fd3?ref=badge_large)
